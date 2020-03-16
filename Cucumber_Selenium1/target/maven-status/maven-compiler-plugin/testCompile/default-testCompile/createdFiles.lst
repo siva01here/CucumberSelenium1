@@ -1,0 +1,5 @@
+stepDefinitions\StepDefinitions.class
+testRunner\TestRunnerWithTestng.class
+testRunner\TestRunnerWithJunit.class
+pageElements\HomePage.class
+pageElements\BigPageWithManyElements.class

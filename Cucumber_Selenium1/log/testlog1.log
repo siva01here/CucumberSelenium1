@@ -1,0 +1,171 @@
+2020-03-15 20:42:17,725 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-15 20:42:20,707 [main] INFO Cucumber_Selenium1 - ******************Naivagating to the respective URL****************************
+2020-03-15 20:42:30,988 [main] INFO Cucumber_Selenium1 - ******************Verify presence of text in home page****************************
+2020-03-15 20:42:31,257 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-15 20:42:33,438 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-15 20:42:35,702 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-15 20:42:40,824 [main] INFO Cucumber_Selenium1 - ******************Accessing big page with many elements link****************************
+2020-03-15 20:42:46,526 [main] INFO Cucumber_Selenium1 - ******************Verify the sections header text****************************
+2020-03-15 20:42:46,917 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 14:53:55,349 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 14:53:58,696 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 14:54:05,454 [main] INFO Cucumber_Selenium1 - ******************Verify presence of text in home page****************************
+2020-03-16 14:54:05,677 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 14:54:07,939 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 14:54:09,397 [main] INFO Cucumber_Selenium1 - ******************Verify the title****************************
+2020-03-16 14:54:09,514 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 14:54:11,874 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 14:54:13,262 [main] INFO Cucumber_Selenium1 - ******************Accessing big page with many elements link****************************
+2020-03-16 14:54:42,776 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 14:54:45,928 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 14:54:57,072 [main] INFO Cucumber_Selenium1 - ******************Verify presence of text in home page****************************
+2020-03-16 14:54:57,365 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 14:54:59,485 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 14:55:01,979 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 14:55:06,330 [main] INFO Cucumber_Selenium1 - ******************Verify the title****************************
+2020-03-16 14:55:06,358 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 14:55:08,459 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 14:55:10,691 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 14:55:15,607 [main] INFO Cucumber_Selenium1 - ******************Accessing big page with many elements link****************************
+2020-03-16 14:55:20,337 [main] INFO Cucumber_Selenium1 - ******************Verify the sections header text****************************
+2020-03-16 14:55:20,700 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 14:59:08,907 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 14:59:08,936 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 14:59:08,955 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:04:08,627 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:04:11,851 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:04:21,794 [main] INFO Cucumber_Selenium1 - ******************Verify presence of text in home page****************************
+2020-03-16 15:04:21,982 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:04:24,299 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:04:24,334 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:04:26,630 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:04:32,416 [main] INFO Cucumber_Selenium1 - ******************Verify the title****************************
+2020-03-16 15:04:32,437 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:04:34,766 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:04:34,784 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:04:37,082 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:04:42,125 [main] INFO Cucumber_Selenium1 - ******************Accessing big page with many elements link****************************
+2020-03-16 15:04:47,787 [main] INFO Cucumber_Selenium1 - ******************Verify the sections header text****************************
+2020-03-16 15:04:48,049 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:04:50,369 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:08:54,967 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:08:59,082 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:09:08,980 [main] INFO Cucumber_Selenium1 - ******************Verify presence of text in home page****************************
+2020-03-16 15:09:09,155 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:09:11,475 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:09:11,517 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:09:13,725 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:09:18,261 [main] INFO Cucumber_Selenium1 - ******************Verify the title****************************
+2020-03-16 15:09:18,299 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:09:20,397 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:09:20,413 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:09:22,715 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:09:27,968 [main] INFO Cucumber_Selenium1 - ******************Accessing big page with many elements link****************************
+2020-03-16 15:09:33,476 [main] INFO Cucumber_Selenium1 - ******************Verify the sections header text****************************
+2020-03-16 15:09:33,789 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:09:35,858 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:09:36,412 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:09:38,546 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:09:47,624 [main] INFO Cucumber_Selenium1 - ******************Verify presence of text in home page****************************
+2020-03-16 15:09:47,736 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:09:50,052 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:09:50,076 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:09:52,314 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:09:57,140 [main] INFO Cucumber_Selenium1 - ******************Accessing big page with many elements link****************************
+2020-03-16 15:10:02,676 [main] INFO Cucumber_Selenium1 - ******************Verify the sections header text****************************
+2020-03-16 15:10:03,035 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:10:03,186 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:20:39,206 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:20:42,266 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:20:47,982 [main] INFO Cucumber_Selenium1 - ******************Verify the title****************************
+2020-03-16 15:20:48,000 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:20:50,380 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:20:50,677 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:20:53,297 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:21:03,017 [main] INFO Cucumber_Selenium1 - ******************Verify presence of text in home page****************************
+2020-03-16 15:21:03,175 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:21:05,509 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:21:05,530 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:21:07,701 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:21:12,917 [main] INFO Cucumber_Selenium1 - ******************Accessing big page with many elements link****************************
+2020-03-16 15:21:18,431 [main] INFO Cucumber_Selenium1 - ******************Verify the sections header text****************************
+2020-03-16 15:21:18,654 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:21:20,804 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:31:11,141 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:31:17,123 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:31:25,008 [main] INFO Cucumber_Selenium1 - ******************Verify the title****************************
+2020-03-16 15:31:25,032 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:31:27,131 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:31:27,569 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:31:29,781 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:31:39,822 [main] INFO Cucumber_Selenium1 - ******************Verify presence of text in home page****************************
+2020-03-16 15:31:40,270 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:31:42,646 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:31:42,661 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:31:45,091 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:31:49,149 [main] INFO Cucumber_Selenium1 - ******************Accessing big page with many elements link****************************
+2020-03-16 15:31:56,145 [main] INFO Cucumber_Selenium1 - ******************Verify the sections header text****************************
+2020-03-16 15:31:56,442 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:31:58,821 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:37:15,139 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:37:18,298 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:37:23,513 [main] INFO Cucumber_Selenium1 - ******************Verify the title****************************
+2020-03-16 15:37:23,537 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:37:25,948 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:37:26,276 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:37:28,388 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:37:37,937 [main] INFO Cucumber_Selenium1 - ******************Verify presence of text in home page****************************
+2020-03-16 15:37:38,121 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:37:40,506 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 15:37:40,537 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 15:37:42,831 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 15:37:47,611 [main] INFO Cucumber_Selenium1 - ******************Accessing big page with many elements link****************************
+2020-03-16 15:37:53,535 [main] INFO Cucumber_Selenium1 - ******************Verify the sections header text****************************
+2020-03-16 15:37:53,785 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 15:37:55,918 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 16:23:48,672 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 16:24:02,387 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 16:24:10,903 [main] INFO Cucumber_Selenium1 - ******************Verify the title****************************
+2020-03-16 16:24:10,999 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 16:24:13,340 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 16:24:15,040 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 16:24:17,379 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 16:24:54,031 [main] INFO Cucumber_Selenium1 - ******************Verify presence of text in home page****************************
+2020-03-16 16:24:54,551 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 16:24:55,318 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 16:24:55,334 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 16:24:58,112 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 16:25:13,274 [main] INFO Cucumber_Selenium1 - ******************Accessing big page with many elements link****************************
+2020-03-16 16:25:13,410 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 16:29:38,086 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 16:29:45,023 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 16:29:50,552 [main] INFO Cucumber_Selenium1 - ******************Verify the title****************************
+2020-03-16 16:29:50,613 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 16:29:52,722 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 16:29:53,441 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 16:29:55,712 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 16:30:07,456 [main] INFO Cucumber_Selenium1 - ******************Verify presence of text in home page****************************
+2020-03-16 16:30:08,253 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 16:30:10,603 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 16:30:10,627 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 16:30:13,522 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 16:30:19,565 [main] INFO Cucumber_Selenium1 - ******************Accessing big page with many elements link****************************
+2020-03-16 16:30:26,082 [main] INFO Cucumber_Selenium1 - ******************Verify the sections header text****************************
+2020-03-16 16:30:26,366 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 16:30:28,451 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 16:38:55,224 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 16:39:03,927 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 16:39:17,291 [main] INFO Cucumber_Selenium1 - ******************Verify the title****************************
+2020-03-16 16:39:17,335 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 16:39:19,996 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 16:39:20,334 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 16:39:23,056 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 16:39:38,745 [main] INFO Cucumber_Selenium1 - ******************Verify presence of text in home page****************************
+2020-03-16 16:39:38,909 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 16:39:41,087 [main] INFO Cucumber_Selenium1 - Tear Down Method
+2020-03-16 16:39:41,107 [main] INFO Cucumber_Selenium1 - ******************Launching the browser****************************
+2020-03-16 16:39:44,478 [main] INFO Cucumber_Selenium1 - ******************Navigating to the respective URL****************************
+2020-03-16 16:39:57,642 [main] INFO Cucumber_Selenium1 - ******************Accessing big page with many elements link****************************
+2020-03-16 16:40:07,344 [main] INFO Cucumber_Selenium1 - ******************Verify the sections header text****************************
+2020-03-16 16:40:07,734 [main] INFO Cucumber_Selenium1 - ******************Closing the browser****************************
+2020-03-16 16:40:10,390 [main] INFO Cucumber_Selenium1 - Tear Down Method

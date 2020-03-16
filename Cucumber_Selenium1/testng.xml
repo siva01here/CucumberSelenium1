@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestSuite">
+	<test name="CucmberTestngTest">
+		<classes>
+			<class name="testRunner.TestRunnerWithTestng"></class>
+		</classes>
+	</test>
+</suite>

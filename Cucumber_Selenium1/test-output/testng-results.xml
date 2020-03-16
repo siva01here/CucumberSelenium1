@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="42559" started-at="2020-03-16T09:34:07Z" finished-at="2020-03-16T09:34:50Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestRunnerWithTestng@396e2f39]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="CucmberTestngTest" duration-ms="42559" started-at="2020-03-16T09:34:07Z" finished-at="2020-03-16T09:34:50Z">
+      <class name="testRunner.TestRunnerWithTestng">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:testRunner.TestRunnerWithTestng@396e2f39]" name="setUpClass" is-config="true" duration-ms="243" started-at="2020-03-16T09:34:07Z" finished-at="2020-03-16T09:34:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestRunnerWithTestng@396e2f39]" name="runScenario" duration-ms="15912" started-at="2020-03-16T09:34:08Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-03-16T09:34:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify presence of automation practice text in home page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Automation Practice Home Page Features"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestRunnerWithTestng@396e2f39]" name="runScenario" duration-ms="10457" started-at="2020-03-16T09:34:24Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-03-16T09:34:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify the home page title"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Automation Practice Home Page Features"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestRunnerWithTestng@396e2f39]" name="runScenario" duration-ms="15602" started-at="2020-03-16T09:34:34Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-03-16T09:34:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify section header and its text"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Big Page Many Elements Section Header"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:testRunner.TestRunnerWithTestng@396e2f39]" name="tearDownClass" is-config="true" duration-ms="131" started-at="2020-03-16T09:34:50Z" finished-at="2020-03-16T09:34:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunner.TestRunnerWithTestng -->
+    </test> <!-- CucmberTestngTest -->
+  </suite> <!-- TestSuite -->
+</testng-results>
